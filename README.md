@@ -1,6 +1,6 @@
 ## Hola, I'm [Ajay kumar!] 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kmajay978&label=Views&color=blue&style=plastic" alt="kmajay978" /> </p>
 
 <a href="https://twitter.com/shoutricks">
   <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -40,7 +40,7 @@
 
 [![Twitter: shoutricks](https://img.shields.io/twitter/follow/shoutricks?style=social)](https://twitter.com/shoutricks)
 [![Linkedin: ajay-kumar-107bb7136](https://img.shields.io/badge/-shoutricks-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajay-kumar-107bb7136/)](https://www.linkedin.com/in/ajay-kumar-107bb7136/)
-[![GitHub kmajay978](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/kmajay978)
+[![GitHub kmajay978](https://img.shields.io/github/followers/kmajay978?label=follow&style=social)](https://github.com/kmajay978)
 [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://shoutricks.com/)
 
 
@@ -55,18 +55,18 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>        
 
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+<a href="https://github.com/kmajay978">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmajay978&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Ajay's github stats"/>
+<a href="https://github.com/kmajay978">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kmajay978&show_icons=true&theme=light&line_height=27" alt="Ajay's github stats"/>
 </a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
+<a href="https://github.com/kmajay978/FlutterExampleApps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kmajay978&repo=FlutterExampleApps&theme=light" />
 
 </a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+<a href="https://github.com/kmajay978/VelocityX">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kmajay978&repo=VelocityX&theme=light" />
 </a>
 
 <div align="center">
