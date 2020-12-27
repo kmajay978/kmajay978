@@ -41,7 +41,7 @@
 [![Twitter: shoutricks](https://img.shields.io/twitter/follow/shoutricks?style=social)](https://twitter.com/shoutricks)
 [![Linkedin: ajay-kumar-107bb7136](https://img.shields.io/badge/-shoutricks-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajay-kumar-107bb7136/)](https://www.linkedin.com/in/ajay-kumar-107bb7136/)
 [![GitHub kmajay978](https://img.shields.io/github/followers/kmajay978?label=follow&style=social)](https://github.com/kmajay978)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://shoutricks.com/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-shoutricks.com-2648ff?style=flat-square&logo=google-chrome)](https://shoutricks.com/)
 
 
 **Languages and Tools:**  
