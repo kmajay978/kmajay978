@@ -52,7 +52,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>        
 
 <a href="https://github.com/kmajay978">
@@ -62,12 +61,10 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kmajay978&show_icons=true&theme=light&line_height=27" alt="Ajay's github stats"/>
 </a>
 <a href="https://github.com/kmajay978/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kmajay978&repo=FlutterExampleApps&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kmajay978&repo=glitter&theme=light" />
 
 </a>
-<a href="https://github.com/kmajay978/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kmajay978&repo=VelocityX&theme=light" />
-</a>
+
 
 <div align="center">
 
