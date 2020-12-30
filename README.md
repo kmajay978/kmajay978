@@ -60,7 +60,7 @@
 <a href="https://github.com/kmajay978">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kmajay978&show_icons=true&theme=light&line_height=27" alt="Ajay's github stats"/>
 </a>
-<a href="https://github.com/kmajay978/FlutterExampleApps">
+<a href="https://github.com/kmajay978/glitter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kmajay978&repo=glitter&theme=light" />
 
 </a>
