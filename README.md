@@ -41,7 +41,7 @@
 [![Twitter: shoutricks](https://img.shields.io/twitter/follow/shoutricks?style=social)](https://twitter.com/shoutricks)
 [![Linkedin: ajay-kumar-107bb7136](https://img.shields.io/badge/-shoutricks-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajay-kumar-107bb7136/)](https://www.linkedin.com/in/ajay-kumar-107bb7136/)
 [![GitHub kmajay978](https://img.shields.io/github/followers/kmajay978?label=follow&style=social)](https://github.com/kmajay978)
-[![website](https://img.shields.io/badge/PortfolioWebsite-shoutricks.com-2648ff?style=flat-square&logo=google-chrome)](https://shoutricks.com/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-shoutricks.com-2648ff?style=flat-square&logo=google-chrome)](https://codexade.com/)
 
 
 **Languages and Tools:**  
@@ -60,10 +60,7 @@
 <a href="https://github.com/kmajay978">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kmajay978&show_icons=true&theme=light&line_height=27" alt="Ajay's github stats"/>
 </a>
-<a href="https://github.com/kmajay978/glitter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kmajay978&repo=glitter&theme=light" />
 
-</a>
 
 
 <div align="center">
